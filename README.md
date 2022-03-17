@@ -4,6 +4,8 @@ the user to examine the biodiversity of bacteria making up parts of the human an
 
 ![BBD_reduced](https://user-images.githubusercontent.com/30667001/158801383-585e7899-8fb2-4976-abf4-f199190f01fb.png)
 
+This dashboard is available at https://stephanieashulman.github.io/Plotly-Biodiversity/.
+
 ## Resources
 * Data Source: JSON data of samples with related participant demographic data
 * Software: Visual Studio Code 1.65.0
